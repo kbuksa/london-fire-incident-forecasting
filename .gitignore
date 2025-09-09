@@ -47,3 +47,8 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Dataset files
+data/london-borough-shp/London_Boroughs.gpkg
+data/london-fire-incident/LFB\ Incident\ data\ from\ 2009\ -\ 2017.csv
+data/london-fire-incident/Metadata.xlsx
