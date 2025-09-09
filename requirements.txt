@@ -1,0 +1,9 @@
+install.packages(c(
+  "sf",          # Spatial data handling
+  "ggplot2",     # Data visualisation  
+  "tmap",        # Spatial mapping
+  "spdep",       # Spatial analysis
+  "forecast",    # Time-series forecasting
+  "stats",       # Statistical modelling
+  "tseries"      # Time-series testing
+))
